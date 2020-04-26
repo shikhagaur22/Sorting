@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Sorting.iml" filepath="$PROJECT_DIR$/.idea/Sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bubbleSort/bubbleSort.iml" filepath="$PROJECT_DIR$/bubbleSort/bubbleSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/heapSort/heapSort.iml" filepath="$PROJECT_DIR$/heapSort/heapSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/insertionSort/insertionSort.iml" filepath="$PROJECT_DIR$/insertionSort/insertionSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quickSort/quickSort.iml" filepath="$PROJECT_DIR$/quickSort/quickSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/selectionSort/selectionSort.iml" filepath="$PROJECT_DIR$/selectionSort/selectionSort.iml" />
+    </modules>
+  </component>
+</project>
